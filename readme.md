@@ -1,4 +1,4 @@
-<h2>Implemented SARSA algorithm on Taxi-V3 which is an OPENAI gym environment.</h2>
+<h2>Implemented Q-learning algorithm on Taxi-V3 which is an OPENAI gym environment.</h2>
 <br>
 <h3>Hyperparameters:</h3>
 <ul>
@@ -12,4 +12,4 @@
 <br>
 
 
-![Graph showing the reward after an episode](./taxi_v3_sarsa.png)
+![Graph showing the reward after an episode](./taxi_v3_q_learning.png)
