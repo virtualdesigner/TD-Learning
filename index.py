@@ -24,7 +24,7 @@ def TD(on_policy=False, epsilon=1, total_episodes=500, trajectory_length=500, ga
         current_action = generate_action(epsilon, q_table[observation])
 
         for transition in range(trajectory_length):
-            # env.render()
+            env.render()
 
             old_observation = observation
 
