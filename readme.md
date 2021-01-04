@@ -17,6 +17,30 @@
 
 <br>
 
+<h2>SARSA with replace traces</h2>
+
+![SARSA with replace traces Graph](./taxi_v3_sarsa_with_replace_traces.png)
+
+<br>
+
+<h2>SARSA with accumulate traces</h2>
+
+![SARSA with accumulate traces Graph](./taxi_v3_sarsa_with_accumulate_traces.png)
+
+<br>
+
 <h2>Q-Learning</h2>
 
 ![Q-Learning Graph](./taxi_v3_q_learning.png)
+
+<br>
+
+<h2>Q-Learning with replace traces</h2>
+
+![Q-Learning with replace traces Graph](./taxi_v3_q_learning_with_replace_traces.png)
+
+<br>
+
+<h2>Q-Learning with accumulate traces</h2>
+
+![Q-Learning with accumulate traces Graph](./taxi_v3_q_learning_with_accumulate_traces.png)
