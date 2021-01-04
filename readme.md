@@ -2,10 +2,11 @@
 <br>
 <h2>Hyperparameters:</h2>
 <ul>
-    <li>Episodes - 500</li>
+    <li>Episodes - 1000</li>
     <li>Trajectory length - 500</li>
-    <li>Learning rate - 0.6</li>
+    <li>Learning rate - 0.5</li>
     <li>Gamma - 0.9</li>
+    <li>Lamda - 0.9</li>
     <li>Initial epsilon - 1</li>
     <li>Epsilon decay function - 1/episode_number</li>
 </ul>
